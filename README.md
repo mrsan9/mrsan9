@@ -10,7 +10,7 @@
   Game Programmer
   <br>
   <br> 
-  💻 I love writing code and learn anythings about it
+  💻 I love coding anything related to games
   <br>
   🔬 I’m currently working on Unity 3D with C#
   <br>
