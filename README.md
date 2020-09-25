@@ -2,7 +2,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/mrsan98/" title="LinkedIn Profile"><img width="22" src="https://github.com/mrsan9/mrsan9/blob/master/images/linkedin.svg"> LinkedIn</a></code>  
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/mrsan9/mrsan9/blob/master/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/mr.san__/" title="Instagram Profile"><img width="22" src="https://github.com/mrsan9/mrsan9/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -11,7 +11,7 @@
   <br> 
   💻 I love coding anything related to games
   <br>
-  🔬 I’m currently working on Unity 3D with C#
+  🔬 I’m currently using Unity 3D with C#
   <br>
   📚 I’m currently learning advanced C++ and Game Engine Architecture 
   <br>
