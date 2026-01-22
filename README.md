@@ -1,32 +1,34 @@
 <h3 align="center">Hello there, I'm Sandeep 👋</h3>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/mrsan98/" title="LinkedIn Profile">
-      <img width="22" src="https://github.com/mrsan9/mrsan9/blob/master/images/linkedin.svg">
-      LinkedIn
-    </a>
-  </code>  
-  <code>
-    <a href="https://www.instagram.com/mr.san__/" title="Instagram Profile">
-      <img width="22" src="https://github.com/mrsan9/mrsan9/blob/master/images/instagram.svg">
-      Instagram
-    </a>
-  </code>
-</h5>
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrsan98/" target="_blank">
+    <img width="28"
+         src="https://github.com/mrsan9/mrsan9/blob/master/images/linkedin.svg" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mr.san__/" target="_blank">
+    <img width="28"
+         src="https://github.com/mrsan9/mrsan9/blob/master/images/instagram.svg" />
+  </a>
+</p>
 
 <br>
 
 <p align="center">
-  Software Engineer • Programmer • Problem Solver
-  <br><br>
+  <b>Software Engineer • Programmer • Problem Solver</b>
+</p>
+
+<br>
+
+<p align="center">
   💻 Passionate about coding, system thinking, and building reliable software  
   <br>
   🧠 Strong interest in algorithms, data structures, and core computer science concepts  
   <br>
   🔧 Experience developing applications, tools, and reusable systems  
   <br>
-  🎮 Background in game development using C# and C++  
+  🎮 Background in game development using <b>C#</b> and <b>C++</b>  
   <br>
   🧩 Comfortable working with large codebases, debugging complex issues, and optimizing performance  
   <br>
@@ -34,21 +36,22 @@
   <br>
   👨‍🏫 3+ years of experience teaching programming and computer science fundamentals  
   <br>
-  📫 Reach me at: <a href="mailto:sandeepsalimeda@gmail.com">sandeepsalimeda@gmail.com</a>
+  📫 Reach me at:
+  <a href="mailto:sandeepsalimeda@gmail.com">sandeepsalimeda@gmail.com</a>
 </p>
 
 <hr>
 
-<h2 align="center">Languages • Frameworks • Tools • Skills</h2>
+<h2 align="center">Languages • Frameworks • Tools</h2>
 
 <p align="center">
-  <code><img title="Unity" height="25" src="https://github.com/mrsan9/mrsan9/blob/master/images/unity.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/mrsan9/mrsan9/blob/master/images/cSharp.svg"></code>
-  <code><img title="C" height="25" src="https://github.com/mrsan9/mrsan9/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/mrsan9/mrsan9/blob/master/images/cpp.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/mrsan9/mrsan9/blob/master/images/java.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/mrsan9/mrsan9/blob/master/images/json.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/mrsan9/mrsan9/blob/master/images/problemSolving.png"></code>
+  <code><img title="Unity" height="28" src="https://github.com/mrsan9/mrsan9/blob/master/images/unity.svg"></code>
+  <code><img title="C#" height="28" src="https://github.com/mrsan9/mrsan9/blob/master/images/cSharp.svg"></code>
+  <code><img title="C" height="28" src="https://github.com/mrsan9/mrsan9/blob/master/images/c.svg"></code>
+  <code><img title="C++" height="28" src="https://github.com/mrsan9/mrsan9/blob/master/images/cpp.svg"></code>
+  <code><img title="Java" height="28" src="https://github.com/mrsan9/mrsan9/blob/master/images/java.svg"></code>
+  <code><img title="JSON" height="28" src="https://github.com/mrsan9/mrsan9/blob/master/images/json.svg"></code>
+  <code><img title="Problem Solving" height="28" src="https://github.com/mrsan9/mrsan9/blob/master/images/problemSolving.png"></code>
 </p>
 
 <hr>
@@ -77,13 +80,10 @@
   • Software Engineering  
   • Systems & Engine Architecture  
   • Tool Development  
-  • Problem Solving & Competitive Programming  
   • Low-Level Programming  
+  • Problem Solving & Competitive Programming  
 </p>
 
 <hr>
 
-<a href="https://github.com/mrsan9/github-readme-stats" title="GitHub Stats">
-  <img width="100%" height="200"
-       src="https://github-readme-stats.vercel.app/api?username=mrsan9&show_icons=true&hide_border=true">
-</a>
+
